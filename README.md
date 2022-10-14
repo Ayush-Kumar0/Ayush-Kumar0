@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-Kumar0
 - 👀 I’m interested in Developing Websites.
-- 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and WebDevelopment and DataStructures.
+- 💞️ I’m looking to collaborate on Backend Development.
 - 📫 How to reach me ayushkumar27053@gmail.com
 
 <!---
